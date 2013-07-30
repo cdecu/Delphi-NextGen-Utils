@@ -8,7 +8,7 @@ Just started first repo
 
 no comment 
 
-no reference
+no reference, no credits
 
 no samples
 
